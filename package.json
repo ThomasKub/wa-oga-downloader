@@ -1,0 +1,15 @@
+{
+  "name": "oga-downloader",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.7",
+    "qrcode-terminal": "^0.12.0"
+  }
+}
